@@ -16,15 +16,15 @@ walkLeft = [pygame.image.load('L1.png'),
             ]
             
 walkRight =[pygame.image.load('R1.png'),
-             pygame.image.load('R2.png'),
-             pygame.image.load('R3.png'),
-             pygame.image.load('R4.png'),
-             pygame.image.load('R5.png'),
-             pygame.image.load('R6.png'),
-             pygame.image.load('R7.png'),
-             pygame.image.load('R8.png'),
-             pygame.image.load('R9.png')
-             ]
+            pygame.image.load('R2.png'),
+            pygame.image.load('R3.png'),
+            pygame.image.load('R4.png'),
+            pygame.image.load('R5.png'),
+            pygame.image.load('R6.png'),
+            pygame.image.load('R7.png'),
+            pygame.image.load('R8.png'),
+            pygame.image.load('R9.png')]
+             
 bg2 = pygame.image.load('bg2.jpg')
 char = pygame.image.load('standing.png')
 char2 = pygame.image.load('cartoon.png')

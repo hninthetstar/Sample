@@ -1,4 +1,4 @@
-fibonacci.py
+# fibonacci.py
 
 #Fibonacci numbers module
 
@@ -7,7 +7,7 @@ fibonacci.py
 def fib(n): #write Fibonacci series up to n
 		a, b = 0, 1
 		while a < n:
-			print(a, end= '')
+			print(a, end=' ')
 			a, b = b, a+b
 		print()
 
@@ -22,3 +22,5 @@ def fib2(n): #return Fibonacci series up to n
 		return result
 
 #>>>fib #import
+
+#a ka n htet ngal ny tha mya pat lone a sone ma shi loop ka pat ny mhr

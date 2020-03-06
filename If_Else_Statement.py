@@ -180,6 +180,3 @@ student = "SFU"
 ...     else:
 ...             print("I'm female")
 ...
-I'm SFU student
-Yes, I'm from batch 3
-I'm male
