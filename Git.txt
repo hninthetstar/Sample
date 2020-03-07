@@ -1,0 +1,46 @@
+Git.txt
+
+Username:hninthetstar
+Useremail:hninnthettmhuukhin@gmail.com
+Password:hninthet1811
+
+Step 1: Git Download
+Step 2: Git Installation
+Step 3: Github Account Creation
+Step 4: Git Repository
+Step 5: A file to upload on github
+Step 6: Git Command line
+
+cd Path- Go to Directory
+First Time (New Responsitory)
+			git init
+			git add
+			git config --global user.email "hninnthetmhuukhin@gmail.com"
+			git config --global user.name "hninthet-star"
+
+			git commit -m "first commit"
+			git remote add origin https://github.comm/hninthet-star/Sample.git
+			git push -u origin master
+
+(New Repository For New Project)
+			git init 
+			gitadd
+			git add
+			git config global user.email "usermail"
+			git config global user.name "username"
+
+			git commit -m "first commit"
+			git remote add origin https://github.comm/hninthet-star/Sample.git
+			git push -u origin master
+
+(Old Repository For Existing Project)
+		
+			git add
+			git commit -m "second commit"
+			git push
+(Existing Project to other Laptop)
+
+		git pull
+
+(Other person Project to own Laptop)
+			git clone https://github.com/hninthet-star/Sample.git
